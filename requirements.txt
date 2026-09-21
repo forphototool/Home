@@ -1,0 +1,11 @@
+streamlit
+opencv-python-headless
+pillow
+exifread
+piexif
+streamlit-folium
+folium
+google-generativeai
+geopy
+ultralytics
+reportlab
